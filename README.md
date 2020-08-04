@@ -1,4 +1,4 @@
-# house-price-data
+# UK House Prices
 This is similar to the way I compiled data regarding schools (https://github.com/waiky8/schools-data) but instead of querying Ofsted I queried Zoopla.
 Again, I used **beautiful soup** to crawl the website, created a transitional csv file and finally loaded it into **MySQL**.
 
