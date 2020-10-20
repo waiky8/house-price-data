@@ -1,7 +1,7 @@
 # UK House Prices
-This is similar to the way I compiled data regarding schools (https://github.com/waiky8/schools-data) but instead of querying Ofsted I queried Zoopla.
-Again, I used **beautiful soup** to crawl the website, created a transitional csv file and finally loaded it into **MySQL**.
+This was similar to the way data was compiled for schools (https://github.com/waiky8/schools-data), this time querying Zoopla instead.
+Again, **beautiful soup** was used to traverse the website, creating a transitional csv file and finally loading the data into **MySQL**.
 
-I used UK postal districts to try and capture a more complete dataset. In addition, a timestamp was added to allow for updated prices to be added later on. 
+UK postal districts was used to capture a complete dataset. In addition, a timestamp was added to allow for updated prices to be added subsequently. 
 
-Note, this same data was converted to SQLite so that it could be used by another application (https://github.com/waiky8/schools-view).
+Note, this same data was converted to **sqlite** so that it could be used by another application (https://github.com/waiky8/schools-view).
